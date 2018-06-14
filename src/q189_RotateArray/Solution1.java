@@ -8,6 +8,9 @@ package q189_RotateArray;
  * <p>
  * Runtime: 136ms
  * <p>
+ * <p>
+ * 思路：这个方法不是最优的。这是一开始想到的，就是挪几步就循环挪一步几次，效率为O(N²)
+ * <p>
  * EN:
  * Rotate an array of n elements to the right by k steps.
  * <p>
@@ -49,7 +52,6 @@ package q189_RotateArray;
  * 尽可能想出更多的解决方案，至少有三种不同的方法可以解决这个问题。
  * 要求使用空间复杂度为 O(1) 的原地算法。
  * <p>
- * 思路：这个方法不是最优的。这是一开始想到的，就是挪几步就循环挪一步几次，效率为O(N²)
  */
 public class Solution1 {
     public void rotate(int[] nums, int k) {
