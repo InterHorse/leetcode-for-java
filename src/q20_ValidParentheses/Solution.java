@@ -80,8 +80,8 @@ public class Solution {
             return true;
         }
         Stack<String> stack = new Stack<>();
-        List<String> parentheses = Arrays.asList(s.split(""));
-        for (String str : parentheses) {
+        String[] arr = s.split("");
+        for (String str : arr) {
             if (prefixParenthesis.containsKey(str)) {
                 stack.push(str);
             } else {
