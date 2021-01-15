@@ -8,6 +8,7 @@ Record the process of leetcode for Java.
 
 # 目录
 -  [Q1.Two Sum / 两数之和](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q1_TwoSum)
+-  [Q2.Add Two Numbers / 两数相加](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q2_AddTwoNumbers)
 -  [Q26.Remove Duplicates from Sorted Array / 删除排序数组中的重复项](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q26_RemoveDuplicatesfromSortedArray)
 -  [Q66.Plus One / 加一](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q66_PlusOne)
 -  [Q122.Best Time to Buy and Sell Stock II / 买卖股票的最佳时机 II](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q122_BestTimetoBuyandSellStock2)
