@@ -1,8 +1,5 @@
 package q2_AddTwoNumbers;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @author InterHorse
  * @date 2021-01-15 00:30:02
@@ -35,29 +32,21 @@ class Solution {
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        List<Integer> list1 = new ArrayList<>(16);
-        List<Integer> list2 = new ArrayList<>(16);
-        while (l1 != null) {
-            list1.add(l1.val);
-            l1 = l1.next;
-        }
-        while (l2 != null) {
-            list2.add(l2.val);
-            l2 = l2.next;
-        }
-        int index1 = list1.size() - 1;
-        int index2 = list2.size() - 1;
+        ListNode pL1 = l1;
+        ListNode pL2 = l2;
         ListNode headNode = null;
         ListNode pNode = null;
-        ListNode tailNode = null;
+        ListNode tailNode;
         int next = 0;
-        for (int i = 0; i <= Math.max(index1, index2); i++) {
+        while (pL1 != null || pL2 != null) {
             int val = 0;
-            if (index1 - i >= 0) {
-                val = list1.get(i);
+            if (pL1 != null) {
+                val += pL1.val;
+                pL1 = pL1.next;
             }
-            if (index2 - i >= 0) {
-                val += list2.get(i);
+            if (pL2 != null) {
+                val += pL2.val;
+                pL2 = pL2.next;
             }
             val += next;
             if (val >= 10) {
@@ -66,18 +55,17 @@ class Solution {
             } else {
                 next = 0;
             }
-
             if (headNode == null) {
-                pNode = new ListNode(val, null);
+                pNode = new ListNode(val);
                 headNode = pNode;
             } else {
-                tailNode = new ListNode(val, null);
+                tailNode = new ListNode(val);
                 pNode.next = tailNode;
                 pNode = tailNode;
             }
         }
         if (next == 1) {
-            tailNode = new ListNode(1, null);
+            tailNode = new ListNode(1);
             pNode.next = tailNode;
         }
         return headNode;
