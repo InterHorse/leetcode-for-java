@@ -32,5 +32,3 @@ Record the process of leetcode for Java.
 -  [Q283.Move Zeroes / 移动零](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q283_MoveZeroes)
 -  [Q344.Reverse String / 反转字符串](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q344_ReverseString)
 -  [Q350.Intersection of Two Arrays II / 两个数组的交集 II](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q350_IntersectionofTwoArrays2)
-
-
