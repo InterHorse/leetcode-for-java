@@ -24,6 +24,7 @@ Record the process of leetcode for Java.
 -  [Q101.Symmetric Tree / 对称二叉树](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q101_SymmetricTree)
 -  [Q102.Binary Tree Level Order Traversal / 二叉树的层序遍历](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q102_BinaryTreeLevelOrderTraversal)
 -  [Q103.Binary Tree Zigzag Level Order Traversal / 二叉树的锯齿形层序遍历](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q103_BinaryTreeZigzagLevelOrderTraversal)
+-  [Q105.Construct Binary Tree from Preorder and Inorder Traversal / 从前序与中序遍历序列构造二叉树](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q105_ConstructBinaryTreefromPreorderandInorderTraversal)
 -  [Q122.Best Time to Buy and Sell Stock II / 买卖股票的最佳时机 II](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q122_BestTimetoBuyandSellStock2)
 -  [Q136.Single Number / 只出现一次的数字](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q136_SingleNumber)
 -  [Q189.Rotate Array / 旋转数组](https://github.com/MaYuzhe/leetcode_for_Java/tree/master/src/q189_RotateArray)
