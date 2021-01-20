@@ -1,6 +1,5 @@
 package q105_ConstructBinaryTreefromPreorderandInorderTraversal;
 
-
 public class Test {
     public static void main(String[] args) {
         int[] preorder = new int[]{3, 1, 2, 4};

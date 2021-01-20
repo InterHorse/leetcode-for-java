@@ -21,6 +21,8 @@ package q105_ConstructBinaryTreefromPreorderandInorderTraversal;
  *   9  20
  *     /  \
  *    15   7
+ *
+ * https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
  */
 public class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
