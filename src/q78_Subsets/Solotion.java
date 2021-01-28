@@ -33,7 +33,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/subsets/
  */
 public class Solotion {
-    private List<List<Integer>> resList = new ArrayList<>();
+    private final List<List<Integer>> resList = new ArrayList<>();
     private int[] oriNums;
     public List<List<Integer>> subsets(int[] nums) {
         this.oriNums = nums;
