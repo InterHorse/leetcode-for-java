@@ -16,6 +16,7 @@ Record the process of leetcode for Java.
 -  [Q8.String to Integer(atoi) / 字符串转换整数 (atoi)](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q8_StringtoIntegeratoi)
 -  [Q11.Container With Most Water / 盛最多水的容器](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q11_ContainerWithMostWater)
 -  [Q20.Valid Parentheses / 整数反转](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q20_ValidParentheses)
+-  [Q22.Generate Parentheses / 括号生成](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q22_GenerateParentheses)
 -  [Q26.Remove Duplicates from Sorted Array / 删除排序数组中的重复项](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q26_RemoveDuplicatesfromSortedArray)
 -  [Q36.Valid Sudoku / 有效的数独](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q36_ValidSudoku)
 -  [Q42.TrappingRainWater / 接雨水](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q42_TrappingRainWater)
