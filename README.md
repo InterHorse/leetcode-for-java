@@ -19,6 +19,7 @@ Record the process of leetcode for Java.
 -  [Q20.Valid Parentheses / 整数反转](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q20_ValidParentheses)
 -  [Q22.Generate Parentheses / 括号生成](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q22_GenerateParentheses)
 -  [Q26.Remove Duplicates from Sorted Array / 删除排序数组中的重复项](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q26_RemoveDuplicatesfromSortedArray)
+-  [Q34.Find First and Last Position of Element in Sorted Array / 在排序数组中查找元素的第一个和最后一个位置](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q34_FindFirstandLastPositionofElementinSortedArray)
 -  [Q36.Valid Sudoku / 有效的数独](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q36_ValidSudoku)
 -  [Q42.TrappingRainWater / 接雨水](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q42_TrappingRainWater)
 -  [Q48.Rotate Image / 旋转图像](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q48_RotateImage)
