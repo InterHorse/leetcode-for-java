@@ -26,7 +26,7 @@ Record the process of leetcode for Java.
 -  [Q66.Plus One / 加一](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q66_PlusOne)
 -  [Q73.Set Matrix Zeroes / 矩阵置零](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q73_SetMatrixZeroes)
 -  [Q78.Subsets / 子集](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q78_Subsets)
--  [Q94.BinaryTreeInorderTraversal / 二叉树的中序遍历](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q94_BinaryTreeInorderTraversal)
+-  [Q94.Binary Tree Inorder Traversal / 二叉树的中序遍历](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q94_BinaryTreeInorderTraversal)
 -  [Q98.Validate Binary Search Tree / 验证二叉搜索树](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q98_ValidateBinarySearchTree)
 -  [Q101.Symmetric Tree / 对称二叉树](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q101_SymmetricTree)
 -  [Q102.Binary Tree Level Order Traversal / 二叉树的层序遍历](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q102_BinaryTreeLevelOrderTraversal)
