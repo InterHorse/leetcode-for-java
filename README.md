@@ -43,5 +43,6 @@ Record the process of leetcode for Java.
 -  [Q227.Basic Calculator 2 / 基本计算器 II](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q227_BasicCalculator2)
 -  [Q230.Kth Smallest Element in a BST / 二叉搜索树中第K小的元素](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q230_KthSmallestElementinaBST)
 -  [Q283.Move Zeroes / 移动零](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q283_MoveZeroes)
+-  [Q328.Odd Even Linked List / 奇偶链表](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q328_OddEvenLinkedList)
 -  [Q344.Reverse String / 反转字符串](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q344_ReverseString)
 -  [Q350.Intersection of Two Arrays II / 两个数组的交集 II](https://github.com/InterHorse/leetcode-for-Java/tree/master/src/q350_IntersectionofTwoArrays2)
